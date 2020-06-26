@@ -7,12 +7,12 @@ Contains the following feature:-
 * Search your favourite movie
 * Get full description related to the searched movie like Cast, story, budget, time and movie description
 
-#Tech Stack used
+# Tech Stack used
 
 * Reactjs
 * Bootstrap
 * Fontawesome
-* movie.db api
+* [movie.db api](https://www.themoviedb.org/)
 
 # How to start
 
