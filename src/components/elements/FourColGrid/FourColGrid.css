@@ -1,17 +1,20 @@
-.rmdb-grid h1 {
+.imdb-grid h1 {
   font-family: 'Abel', sans-serif;
   font-size:42px;
+  
 }
 
-.rmdb-grid-content {
+.imdb-grid-content {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 40px;
   position: relative;
 }
 
-.rmdb-grid-element {
+.imdb-grid-element {
   animation: animateGrid 0.5s;
+  
+ 
 }
 
 @keyframes animateGrid {
@@ -24,17 +27,17 @@
 }
 
 @media screen and (max-width: 768px) {
-  .rmdb-grid-content {
+  .imdb-grid-content {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .rmdb-grid h1 {
+  .imdb-grid h1 {
     font-size:22px;
   }
 }
 
 @media screen and (max-width: 375px) {
-  .rmdb-grid-content {
+  .imdb-grid-content {
     grid-template-columns: repeat(1, 1fr);
   }
 }

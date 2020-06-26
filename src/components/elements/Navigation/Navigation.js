@@ -4,8 +4,8 @@ import PropTypes from 'prop-types';
 import './Navigation.css';
 
 const Navigation = ({ movie }) => (
-  <div className="rmdb-navigation">
-    <div className="rmdb-navigation-content">
+  <div className="imdb-navigation">
+    <div className="imdb-navigation-content">
       <Link to="/">
         <p>Home</p>
       </Link>

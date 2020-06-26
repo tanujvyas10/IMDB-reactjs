@@ -72,7 +72,7 @@ class Movie extends Component {
     const { movie, directors, actors, loading } = this.state;
 
     return (
-      <div className="rmdb-movie">
+      <div className="imdb-movie">
         {movie ?
         <div>
           <Navigation movie={movieName} />
@@ -81,7 +81,7 @@ class Movie extends Component {
         </div>
         : null }
         {actors ?
-        <div className="rmdb-movie-grid">
+        <div className="imdb-movie-grid">
           <FourColGrid header={'Actors'}>
             {actors.map( (element, i) => (
               <Actor key={i} actor={element} />

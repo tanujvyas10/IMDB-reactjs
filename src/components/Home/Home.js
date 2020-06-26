@@ -74,7 +74,6 @@ class Home extends Component {
         currentPage: result.page,
         totalPages: result.total_pages
       }, () => {
-        // Remember state for the next mount if we´re not in a search view
         if (searchTerm === "") {
           sessionStorage.setItem('HomeState', JSON.stringify(this.state));
         }
@@ -84,11 +83,10 @@ class Home extends Component {
   }
 
   render() {
-    // ES6 Destructuring the state
     const { movies, heroImage, loading, currentPage, totalPages, searchTerm } = this.state;
 
     return (
-      <div className="rmdb-home">
+      <div className="imdb-home">
         {heroImage ?
           <div>
             <HeroImage
@@ -98,7 +96,7 @@ class Home extends Component {
             />
             <SearchBar callback={this.searchItems}/>
           </div> : null }
-          <div className="rmdb-home-grid">
+          <div className="imdb-home-grid">
             <FourColGrid
               header={searchTerm ? 'Search Result' : 'Popular Movies'}
               loading={loading}

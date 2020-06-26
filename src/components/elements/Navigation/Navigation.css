@@ -1,4 +1,4 @@
-.rmdb-navigation {
+.imdb-navigation {
   display: flex;
   align-items: center;
   width: 100%;
@@ -7,14 +7,14 @@
   color: #fff;
 }
 
-.rmdb-navigation-content {
+.imdb-navigation-content {
   max-width: 1280px;
   margin: 0 auto;
   padding: 0 20px;
   width: 100%;
 }
 
-.rmdb-navigation-content p {
+.imdb-navigation-content p {
   font-family: 'Abel', sans-serif;
   font-size: 22px;
   float: left;
@@ -24,7 +24,7 @@
 }
 
 @media screen and (max-width: 768px) {
-  .rmdb-navigation-content p {
+  .imdb-navigation-content p {
     font-size: 16px;
   }
 }

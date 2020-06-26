@@ -28,12 +28,12 @@ class SearchBar extends Component {
     const { value } = this.state;
 
     return (
-      <div className="rmdb-searchbar">
-        <div className="rmdb-searchbar-content">
-          <FontAwesome className="rmdb-fa-search" name="search" size="2x" />
+      <div className="imdb-searchbar">
+        <div className="imdb-searchbar-content">
+          <FontAwesome className="imdb-fa-search" name="search" size="2x" />
           <input
             type="text"
-            className="rmdb-searchbar-input"
+            className="imdb-searchbar-input"
             placeholder="Search"
             onChange={this.doSearch}
             value={value}

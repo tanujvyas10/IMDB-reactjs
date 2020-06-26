@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import './LoadMoreBtn.css';
 
 const LoadMoreBtn = ({ text, onClick }) => (
-  <div className="rmdb-loadmorebtn" onClick={onClick}>
+  <div className="imdb-loadmorebtn" onClick={onClick}>
     <p>{text}</p>
   </div>
 )

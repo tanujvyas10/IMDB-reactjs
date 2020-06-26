@@ -1,4 +1,4 @@
-.rmdb-loadmorebtn {
+.imdb-loadmorebtn {
   background: #16d47b;
   width: 100%;
   min-height: 50px;
@@ -9,12 +9,12 @@
   border-radius: 20px;
 }
 
-.rmdb-loadmorebtn p {
+.imdb-loadmorebtn p {
   font-family: 'Abel', sans-serif;
   font-size:42px;
   padding: 20px;
 }
 
-.rmdb-loadmorebtn:hover {
+.imdb-loadmorebtn:hover {
   opacity: 0.8;
 }

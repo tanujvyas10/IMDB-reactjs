@@ -1,4 +1,4 @@
-.rmdb-actor {
+.imdb-actor {
   height: auto;
   min-height: 30px;
   background: #1c1c1c;
@@ -7,7 +7,7 @@
   text-align: center;
 }
 
-.rmdb-actor img {
+.imdb-actor img {
   display: block;
   width: 100%;
   height: 300px;
@@ -17,7 +17,7 @@
 
 }
 
-.rmdb-actor-name {
+.imdb-actor-name {
   display: block;
   font-family: 'Abel', sans-serif;
   font-size: 22px;
@@ -26,7 +26,7 @@
   margin: 20px 0 0 0;
 }
 
-.rmdb-actor-character {
+.imdb-actor-character {
   display: block;
   font-family: 'Abel', sans-serif;
   font-size: 18px;

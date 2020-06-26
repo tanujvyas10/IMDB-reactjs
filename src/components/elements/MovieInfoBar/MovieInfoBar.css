@@ -1,4 +1,4 @@
-.rmdb-movieinfobar {
+.imdb-movieinfobar {
   display: flex;
   align-items: center;
   width: 100%;
@@ -11,21 +11,21 @@
   font-size: 20px;
 }
 
-.rmdb-movieinfobar-content {
+.imdb-movieinfobar-content {
   max-width: 1280px;
   width: 100%;
   margin: 0 auto;
   color: #fff;
 }
 
-.rmdb-movieinfobar-content-col {
+.imdb-movieinfobar-content-col {
   float: left;
   width: 33.33%;
   box-sizing: border-box;
   padding: 10px 20px 0 0;
 }
 
-.rmdb-movieinfobar-info {
+.imdb-movieinfobar-info {
   padding: 5px 0 0 10px;
   float: left;
 }
@@ -41,7 +41,7 @@
 }
 
 @media screen and (max-width: 425px) {
-  .rmdb-movieinfobar {
+  .imdb-movieinfobar {
     font-size: 14px;
   }
 }
@@ -53,7 +53,7 @@
 }
 
 @media screen and (max-width: 1000px) {
-  .rmdb-movieinfobar-content-col {
+  .imdb-movieinfobar-content-col {
  
   }
 }
