@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tanujvyas10.github.io/React-movie-app/static/css/main.5b53e8c5.chunk.css",
+    "main.js": "/tanujvyas10.github.io/React-movie-app/static/js/main.10d7f836.chunk.js",
+    "main.js.map": "/tanujvyas10.github.io/React-movie-app/static/js/main.10d7f836.chunk.js.map",
+    "runtime-main.js": "/tanujvyas10.github.io/React-movie-app/static/js/runtime-main.716f4ccc.js",
+    "runtime-main.js.map": "/tanujvyas10.github.io/React-movie-app/static/js/runtime-main.716f4ccc.js.map",
+    "static/js/2.d58b4a76.chunk.js": "/tanujvyas10.github.io/React-movie-app/static/js/2.d58b4a76.chunk.js",
+    "static/js/2.d58b4a76.chunk.js.map": "/tanujvyas10.github.io/React-movie-app/static/js/2.d58b4a76.chunk.js.map",
+    "index.html": "/tanujvyas10.github.io/React-movie-app/index.html",
+    "precache-manifest.cce27257d33bef46097ba6c5e1e65b77.js": "/tanujvyas10.github.io/React-movie-app/precache-manifest.cce27257d33bef46097ba6c5e1e65b77.js",
+    "service-worker.js": "/tanujvyas10.github.io/React-movie-app/service-worker.js",
+    "static/css/main.5b53e8c5.chunk.css.map": "/tanujvyas10.github.io/React-movie-app/static/css/main.5b53e8c5.chunk.css.map",
+    "static/js/2.d58b4a76.chunk.js.LICENSE.txt": "/tanujvyas10.github.io/React-movie-app/static/js/2.d58b4a76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.716f4ccc.js",
+    "static/js/2.d58b4a76.chunk.js",
+    "static/css/main.5b53e8c5.chunk.css",
+    "static/js/main.10d7f836.chunk.js"
+  ]
+}
