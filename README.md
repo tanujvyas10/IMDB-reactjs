@@ -1,4 +1,5 @@
-#About the project
+# About the project
+
 This is a Movie app similar to IMDB.
 Contains the following feature:-
 
