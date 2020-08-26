@@ -30,5 +30,5 @@ Contains the following feature:-
 ![6](https://user-images.githubusercontent.com/48439116/85860683-cc824900-b7dc-11ea-8257-dbf949602018.JPG)
 
 
-# Link
-[Click Here](https://5ef5f20a19063620e645902c--focused-brown-ef3b71.netlify.app/)
+# Live Demo
+[Click Here](https://imdb-reactjs.herokuapp.com/)
